@@ -5,7 +5,7 @@ A Python project that analyzes UN population dataset (`data_population.csv`) to 
 ## Prerequisites
 
 - Python 3.10+
-- UN population dataset file (`data_population.csv`) placed in the project data directory
+- UN population dataset file (`[data_population.csv](https://github.com/datasets/population/blob/main/data/population.csv)`)
 
 ## Setup & Installation
 
