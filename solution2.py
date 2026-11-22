@@ -24,8 +24,8 @@ def calculate(data):
     for record in data():
         year = record["Year"]
         country = record["Country Name"]
-        population = record["Value"]
         if int(year) == 2014 and country in asean_countries:
+            population = record["Value"]
             result[country] = int(population)
 
     countries = result.keys()
